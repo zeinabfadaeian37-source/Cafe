@@ -28,4 +28,4 @@ A modern, stylish, and fully responsive landing page for a fictional café, buil
 ---
 
 ## 🚀 Live Demo
-[View Online](https://zeinabfadaeian37-source.github.io/Cafe/)
+[View Online][https://zeinabfadaeian37-source.github.io/Cafe/]
