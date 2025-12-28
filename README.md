@@ -1,27 +1,31 @@
-☕ Cafe Landing Page
+# ☕ Cafe Landing Page
 
-A modern, stylish, and fully responsive landing page for a fictional café, designed using HTML5, CSS3, and JavaScript.
+A modern, stylish, and fully responsive landing page for a fictional café, built with **HTML5**, **CSS3**, and **JavaScript**.
 
-✨ Project Features
+---
 
-Attractive Visual Design: Warm color palette and high-quality imagery to engage visitors.
+## ✨ Features
+- Attractive Visual Design with warm color palette and high-quality imagery
+- Interactive Menu displaying categories and items clearly
+- Fully responsive on mobile, tablet, and desktop
+- Contact & Reservation section with form and details
+- Smooth animations with subtle CSS transitions
 
-Interactive Menu: Displays product categories and café items clearly and elegantly.
+---
 
-Fully Responsive: Optimized for seamless viewing on mobile, tablet, and desktop devices.
+## 🛠 Technologies Used
+- **HTML5** – Page structure
+- **CSS3** – Styling, Flexbox/Grid layout, animations
+- **JavaScript** – Mobile menu and interactive elements
 
-Contact & Reservation Section: Includes a contact form and details for customer communication.
+---
 
-Smooth Animations: Subtle CSS transitions for a pleasant scrolling and hover experience.
+## 💻 How to Run Locally
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Explore the landing page
 
-🛠 Technologies Used
+---
 
-HTML5: Structuring the page content.
-
-CSS3: Styling, layout (Flexbox/Grid), and animations.
-
-JavaScript: Handling the mobile menu and user interactions.
-
-🚀 Live Demo
-
-https://zeinabfadaeian37-source.github.io/Cafe
+## 🚀 Live Demo
+[View Online](https://zeinabfadaeian37-source.github.io/Cafe/)
